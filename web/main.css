@@ -1,0 +1,15 @@
+.bolded:hover {
+    font-weight: bold;
+}
+
+.regDiv {
+    font-weight: 200;
+    font-size: 2em;
+    background-color: palevioletred;
+}
+
+/*center the button for easy viewing maybe? it's being annoying right now and I need to get this submitted on time. Will probably work on centering later.*/
+.centered {
+    display: flex;
+    justify-content: center;
+}
