@@ -1,0 +1,31 @@
+/*
+Primary: charcoal #36384c
+Secondary: Green #849974
+Highlight: Pink #e3BAB3
+                #ffcec5
+Burgundy? #613a43
+Cream #E9DCCD
+*/
+@media only screen and (min-width: 64em) {
+    /***************** UNIVERSAL/MULTIPLES/HEADINGS *****************/
+    h1 {
+        top: -5px;
+        right: 570px;
+    }
+    /***************** BODY *****************/
+    body { 
+        margin: 0 auto;
+    }
+    /***************** HEADER *****************/
+    #profile {
+        top: 10px;
+        left: 575px;
+    }
+    /***************** MAIN *****************/
+     main {
+        max-width: 740px;
+        margin: 0 auto;
+    }
+    /***************** FOOTER *****************/
+    /***************** IMGS *****************/
+}

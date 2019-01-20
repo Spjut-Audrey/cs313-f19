@@ -1,0 +1,55 @@
+/*
+Primary: charcoal #36384c
+Secondary: Green #849974
+Highlight: Pink #e3BAB3
+                #ffcec5
+Burgundy? #613a43
+Cream #E9DCCD
+*/
+@media only screen and (min-width: 38.5em) {
+    /***************** UNIVERSAL/MULTIPLES/HEADINGS *****************/
+    h1 {
+        font-size: 4rem;
+        position: fixed;
+        top: 0px;
+        right: 30px;
+    }
+    
+    h2 {
+        padding-left: 5px;
+    }
+    /***************** BODY *****************/
+    body {
+        max-width: 750px;
+    }
+    /***************** HEADER *****************/
+    #profile {
+        width: 140px;
+        height: auto;
+        position: fixed;
+        top: 10px;
+        left: 15px;
+        }
+    /***************** MAIN *****************/
+    main {
+        max-width: 740px;
+        margin: 0 auto;
+    }
+    
+/*
+    #skillList {
+        column-count: 2;
+        -webkit-column-fill: balance;
+        -moz-column-fill: balance;
+        column-fill: balance;
+}
+*/
+    /***************** FOOTER *****************/
+    footer {
+        height: 130px;
+    }
+
+
+    /***************** IMGS *****************/
+
+}
