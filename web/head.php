@@ -8,6 +8,9 @@
         <link href="homepage-main.css" rel="stylesheet">
         <link href="homepage-medium.css" rel="stylesheet">
         <link href="homepage-large.css" rel="stylesheet">
+
+        <!-- js here -->
+        <script src="/homepage.js"></script>
     '
 
 ?>

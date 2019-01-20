@@ -35,8 +35,8 @@
                 solve all. You will have some trial and error to figure out who can travel with who, but this graphic makes it
                 much easier to understand. Click below to know the secret!
         </p>
-            <button onclick="reveal()" id="revealButton">Reveal Solution</button>
-            <div id="revealDiv">
+            <button onclick="reveal()" class="revealButton">Reveal Solution</button>
+            <div class="revealDiv">
                 <img src="crossing.jpg" alt="image of final World of Warcraft bridge crossing solution">
             </div>
     </body>
