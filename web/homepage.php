@@ -11,7 +11,7 @@
     </head>
     <body>
         <header>
-          <h1>Homepage</h1>
+          <h1>CS 313 Homepage</h1>
           <a href="assignment.php" class="linkButton">Assignment Page</a>
         </header>
         <main>

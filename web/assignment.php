@@ -10,8 +10,9 @@
     </head>
     <body>
         <header>
-            <h1>Assignments coming soon!</h1>
+            <h1>CS 313 Assignment Page</h1>
         </header>
-        <a href="/homepage.php">Return to homepage</a>
+        <h2>Assignments coming soon!</h2>
+        <a href="/homepage.php" class="linkButton">Return to homepage</a>
     </body>
 </html>
