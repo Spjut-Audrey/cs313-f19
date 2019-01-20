@@ -10,9 +10,9 @@ Cream #E9DCCD
     /***************** UNIVERSAL/MULTIPLES/HEADINGS *****************/
     h1 {
         font-size: 4rem;
-        position: fixed;
+        /* position: fixed;
         top: 0px;
-        right: 30px;
+        right: 30px; */
     }
     
     h2 {

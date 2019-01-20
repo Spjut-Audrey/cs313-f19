@@ -8,10 +8,10 @@ Cream #E9DCCD
 */
 @media only screen and (min-width: 64em) {
     /***************** UNIVERSAL/MULTIPLES/HEADINGS *****************/
-    h1 {
+    /* h1 {
         top: -5px;
         right: 570px;
-    }
+    } */
     /***************** BODY *****************/
     body { 
         margin: 0 auto;
