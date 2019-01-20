@@ -2,5 +2,5 @@
 
   phpinfo();
 
-  include_once("home.html");
+  include_once("wk2-teamActivity-spjutAudrey.html");
 ?>
