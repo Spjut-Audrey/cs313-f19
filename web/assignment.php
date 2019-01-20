@@ -12,7 +12,9 @@
         <header>
             <h1>CS 313 Assignment Page</h1>
         </header>
-        <h2>Assignments coming soon!</h2>
-        <a href="/homepage.php" class="linkButton">Return to homepage</a>
+        <main>
+            <h2>Assignments coming soon!</h2>
+            <a href="/homepage.php" class="linkButton">Return to homepage</a>
+        </main>
     </body>
 </html>
