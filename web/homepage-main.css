@@ -131,9 +131,6 @@ footer {
 
 .visibleDiv {
     visibility: visible;
-    position: absolute;
-    left: 70%;
-    top: 30%;
 }
 
 /***************** PORTFOLIO *****************/
