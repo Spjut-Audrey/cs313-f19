@@ -10,8 +10,10 @@
         ?>
     </head>
     <body>
-        <h1>Homepage</h1>
-        <a href="assignment.php" class="linkButton"></a>
+        <header>
+          <h1>Homepage</h1>
+          <a href="assignment.php" class="linkButton">Assignment Page</a>
+        </header>
         <p>This past Thursday me and members of my guild met during our normal
             World of Warcraft raid time but this time we were working on something
             special. An awesome mount! The <a href="https://www.pcgamesn.com/world-of-warcraft/wow-hivemind-mount">
