@@ -114,11 +114,11 @@ footer {
 .linkButton {
     border: solid 2px #ffcec5;
     background-color: #ffcec5;
-    margin: 3px 3px 3px 3px;
+    margin: 15px 15px 15px 15px;
     position: static;
     top: 15px;
     right: 15px;
-
+    color: #36384C;
 }
 
 .linkButton:hover {
