@@ -112,9 +112,13 @@ footer {
 
 /***************** BUTTONS *****************/
 .linkButton {
-    border: solid 2px #36384C;
-    background-color: #36384C;
+    border: solid 2px #ffcec5;
+    background-color: #ffcec5;
     margin: 3px 3px 3px 3px;
+    position: static;
+    top: 15px;
+    right: 15px;
+
 }
 
 .linkButton:hover {
