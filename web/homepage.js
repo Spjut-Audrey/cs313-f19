@@ -1,5 +1,5 @@
 function reveal() {
-    var div = document.getElementById("revealDiv");
+    var div = document.getElementById("hiddenDiv");
 
     if (div.classList.contains("revealDiv")){
         div.classList.remove("revealDiv");
