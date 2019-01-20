@@ -36,5 +36,8 @@
                 much easier to understand. Click below to know the secret!
         </p>
             <button onclick="reveal()" id="revealButton">Reveal Solution</button>
+            <div id="revealDiv">
+                <img src="crossing.jpg" alt="image of final World of Warcraft bridge crossing solution">
+            </div>
     </body>
 </html>

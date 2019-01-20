@@ -121,11 +121,11 @@ footer {
     background-color: #e3bab3;
 }
 
-#revealButton {
+#revealDiv {
     visibility: hidden;
 }
 
-#visibleButton {
+#visibleDiv {
     visibility: visible;
     position: absolute;
     left: 70%;
