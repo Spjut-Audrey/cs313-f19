@@ -14,7 +14,10 @@
             <a href="/homepage.php" class="linkButton">Return to homepage</a>
         </header>
         <main>
-            <h2>Assignments coming soon!</h2>
+            <h2>Assignments</h2>
+            <ul>
+                <li><a href="TeamWeek3.html">Team Activity Week Three</a></li>
+            </ul>
         </main>
     </body>
 </html>
