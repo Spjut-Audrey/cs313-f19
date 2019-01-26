@@ -8,9 +8,9 @@
         <script src="/homepage.js"></script>
     ';
 
-    $_SERVER['HTTP_HOST'];
-    $_SERVER['REQUEST_URI'];
-    if ($_SERVER['HTTP_HOST'] == "https://radiant-beach-62520.herokuapp.com/homepage.php" && "assignment.php")  {
+    // $_SERVER['HTTP_HOST'];
+    // $_SERVER['REQUEST_URI'];
+    if ($_SERVER['HTTP_HOST'] == "https://radiant-beach-62520.herokuapp.com/homepage.php" && "https://radiant-beach-62520.herokuapp.com/assignment.php")  {
         echo '<link href="homepage-main.css" type="text/css" rel="stylesheet">
               <link href="homepage-medium.css" type="text/css" rel="stylesheet">
               <link href="homepage-large.css" type="text/css" rel="stylesheet">

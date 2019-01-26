@@ -66,7 +66,7 @@
                 <img src="/imgs/rice-n-egg.jpeg" class="foodImage crop" alt="photo of an egg over rice">
             </div>
             <div class="item">
-                <img src="/imgs/salad.jpeg" class="foodImage crop" alt="photo of salad">
+                <img src="/imgs/salad.jpg" class="foodImage crop" alt="photo of salad">
             </div>
             <div class="item">
                 <img src="/imgs/soup.jpeg" class="foodImage crop" alt="photo of soup">
