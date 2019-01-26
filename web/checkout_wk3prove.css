@@ -15,8 +15,8 @@
 #item-holder {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    grid-row-gap: 40px;
-    grid-column-gap: 40px;
+    grid-gap: 40px;
+    justify-content: space-evenly;
 }
 
 #logo {
