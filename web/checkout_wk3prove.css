@@ -17,12 +17,12 @@
 #logo {
     width: 300px;
     height: auto;
-    margin-left: 20px;
+    margin-left: 30px;
     margin-top: 5px;
 }
 
 #cart {
-    width: 40px;
+    width: 60px;
     height: auto;
     position: absolute;
     top: 40px;
@@ -32,8 +32,9 @@
 #cart-text {
     position: absolute;
     top: 40px;
-    right: 20px;
+    right: 40px;
     font-family: 'Muli', sans-serif;
+    font-size: 1.5em;
 }
 
 header {
