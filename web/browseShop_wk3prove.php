@@ -8,7 +8,7 @@
     </head>
     <body>
         <header>
-            <img src="logo.png" id="logo">
+            <img src="/imgs/logo.png" id="logo">
             <span>Go to Cart</span>
             <img src="/imgs/cart-icon.png" id="cart" alt="image of a cart">
         </header>
