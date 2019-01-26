@@ -39,37 +39,37 @@
                 <img src="/imgs/fruit.png" class="foodImage crop" alt="Various fruits on a plate">
             </div>
             <div class="item">
-                <img src="/imgs/kimchi.jpeg" class="foodImage crop" alt="photo of kimchi">
+                <img src="/imgs/kimchi.jpeg" class="foodImage" alt="photo of kimchi">
             </div>
             <div class="item">
-                <img src="/imgs/lamb.jpeg" class="foodImage crop" alt="photo of a rack of lamb">
+                <img src="/imgs/lamb.jpeg" class="foodImage" alt="photo of a rack of lamb">
             </div>
             <div class="item">
-                <img src="/imgs/noodles.jpeg" class="foodImage crop" alt="photo of noodles">
+                <img src="/imgs/noodles.jpeg" class="foodImage" alt="photo of noodles">
             </div>
             <div class="item">
-                <img src="/imgs/pancakes.jpeg" class="foodImage crop" alt="photo of pancakes">
+                <img src="/imgs/pancakes.jpeg" class="foodImage" alt="photo of pancakes">
             </div>
             <div class="item">
-                <img src="/imgs/parfait.jpeg" class="foodImage crop" alt="photo of a parfait">
+                <img src="/imgs/parfait.jpeg" class="foodImage" alt="photo of a parfait">
             </div>
             <div class="item">
-                <img src="/imgs/penne-pasta.jpeg" class="foodImage crop" alt="photo of penne pasta">
+                <img src="/imgs/penne-pasta.jpeg" class="foodImage" alt="photo of penne pasta">
             </div>
             <div class="item">
-                <img src="/imgs/pho.jpeg" class="foodImage crop" alt="photo of pho">
+                <img src="/imgs/pho.jpeg" class="foodImage" alt="photo of pho">
             </div>
             <div class="item">
-                <img src="/imgs/pizza.jpeg" class="foodImage crop" alt="photo of pizza">
+                <img src="/imgs/pizza.jpeg" class="foodImage" alt="photo of pizza">
             </div>
             <div class="item">
-                <img src="/imgs/rice-n-egg.jpeg" class="foodImage crop" alt="photo of an egg over rice">
+                <img src="/imgs/rice-n-egg.jpeg" class="foodImage" alt="photo of an egg over rice">
             </div>
             <div class="item">
-                <img src="/imgs/salad.jpg" class="foodImage crop" alt="photo of salad">
+                <img src="/imgs/salad.jpg" class="foodImage" alt="photo of salad">
             </div>
             <div class="item">
-                <img src="/imgs/soup.jpeg" class="foodImage crop" alt="photo of soup">
+                <img src="/imgs/soup.jpeg" class="foodImage" alt="photo of soup">
             </div>
         </main>
         <footer>
