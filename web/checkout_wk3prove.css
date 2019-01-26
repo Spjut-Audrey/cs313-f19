@@ -1,0 +1,12 @@
+.crop {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.foodImage {
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+}
