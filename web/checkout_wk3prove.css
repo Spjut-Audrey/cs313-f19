@@ -11,11 +11,16 @@
 }
 
 #logo {
-    width: 50px;
+    width: 200px;
     height: auto;
 }
 
 #cart {
-    width: 50px;
+    width: 40px;
     height: auto;
+}
+
+header {
+    background-color: E19001;
+    height: 100px;
 }
