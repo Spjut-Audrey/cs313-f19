@@ -14,7 +14,7 @@
 
 #item-holder {
     display: grid;
-    grid-template-columns: 20px 20px 20px 20px;
+    grid-template-columns: auto auto auto auto;
     grid-gap: 20px;
     justify-content: space-evenly;
 }
