@@ -25,14 +25,14 @@
     width: 60px;
     height: auto;
     position: absolute;
-    top: 40px;
+    top: 30px;
     right: 10px;
 }
 
 #cart-text {
     position: absolute;
-    top: 40px;
-    right: 40px;
+    top: 30px;
+    right: 60px;
     font-family: 'Muli', sans-serif;
     font-size: 1.5em;
 }
