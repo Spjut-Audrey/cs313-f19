@@ -1,8 +1,8 @@
 /* google fonts Muli */
 @import url('https://fonts.googleapis.com/css?family=Muli');
 
-html {
-    max-width: 1150px;
+body {
+    max-width: 2150px;
 }
 
 .foodImage {
