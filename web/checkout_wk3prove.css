@@ -10,3 +10,7 @@
     min-height: 100%;
     margin: auto;
 }
+
+.item {
+    width: 300px;
+}
