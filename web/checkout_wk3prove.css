@@ -1,3 +1,7 @@
+/* google fonts Muli */
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+
 .foodImage {
     object-fit: cover;
     width: 250px;
@@ -21,8 +25,15 @@
     width: 40px;
     height: auto;
     position: absolute;
-    top: 50px;
+    top: 40px;
     right: 10px;
+}
+
+#cart-text {
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    font-family: 'Muli', sans-serif;
 }
 
 header {

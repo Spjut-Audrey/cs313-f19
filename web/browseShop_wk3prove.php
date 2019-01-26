@@ -9,7 +9,7 @@
     <body>
         <header>
             <img src="/imgs/logo.png" id="logo">
-            <span>Go to Cart</span>
+            <span id="cart-text">Go to Cart</span>
             <img src="/imgs/cart-icon.png" id="cart" alt="image of a cart">
         </header>
         <main>
