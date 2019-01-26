@@ -7,5 +7,5 @@
 #item-holder {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    grid-row-gap: auto auto auto auto;
+    grid-row-gap: 50px;
 }
