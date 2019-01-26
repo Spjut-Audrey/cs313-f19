@@ -18,9 +18,12 @@
 #cart {
     width: 40px;
     height: auto;
+    position: relative;
+    top: 50px;
+    left: 30px;
 }
 
 header {
-    background-color: E19001;
+    background-color: #E19001;
     height: 100px;
 }
