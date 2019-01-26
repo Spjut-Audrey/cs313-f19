@@ -6,5 +6,5 @@
 
 #item-holder {
     display: grid;
-    columns: 3;
+    grid-template-columns: auto auto auto auto;
 }
