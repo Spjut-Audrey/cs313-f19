@@ -8,6 +8,10 @@
     height: 250px;
 }
 
+.item:hover .foodImage {
+    opacity: 0.3
+}
+
 #item-holder {
     display: grid;
     grid-template-columns: auto auto auto auto;
