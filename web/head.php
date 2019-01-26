@@ -19,10 +19,4 @@
         echo '<link href="checkout_wk3prove.css" type="text/css" rel="stylesheet">';
     }
 
-    $uri = $_SERVER['REQUEST_URI'];
-    echo $uri; // Outputs: URI
-    
-    // $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
-    
-
 ?>
