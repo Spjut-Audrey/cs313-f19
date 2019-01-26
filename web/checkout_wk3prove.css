@@ -13,14 +13,14 @@
 #logo {
     width: 300px;
     height: auto;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-top: 5px;
 }
 
 #cart {
     width: 40px;
     height: auto;
-    position: relative;
+    position: absolute;
     top: 50px;
     right: 10px;
 }
