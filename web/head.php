@@ -10,24 +10,19 @@
 
     // $_SERVER['HTTP_HOST'];
     // $_SERVER['REQUEST_URL'];
-    // if ($_SERVER['HTTP_HOST'] == "https://radiant-beach-62520.herokuapp.com/homepage.php" && "https://radiant-beach-62520.herokuapp.com/assignment.php")  {
-    //     echo '<link href="homepage-main.css" type="text/css" rel="stylesheet">
-    //           <link href="homepage-medium.css" type="text/css" rel="stylesheet">
-    //           <link href="homepage-large.css" type="text/css" rel="stylesheet">
-    //         ';
-    // } else if ($_SERVER['HTTP_HOST'] == "https://radiant-beach-62520.herokuapp.com/browseShop_wk3prove.php" && "https://radiant-beach-62520.herokuapp.com/checkout_wk3prove.php") {
-    //     echo '<link href="checkout_wk3prove.css" type="text/css" rel="stylesheet">';
-    // }
+    if ($_SERVER['request_URI'] == "https://radiant-beach-62520.herokuapp.com/homepage.php" && "https://radiant-beach-62520.herokuapp.com/assignment.php")  {
+        echo '<link href="homepage-main.css" type="text/css" rel="stylesheet">
+              <link href="homepage-medium.css" type="text/css" rel="stylesheet">
+              <link href="homepage-large.css" type="text/css" rel="stylesheet">
+            ';
+    } else if ($_SERVER['REQUEST_URI'] == "https://radiant-beach-62520.herokuapp.com/browseShop_wk3prove.php" && "https://radiant-beach-62520.herokuapp.com/checkout_wk3prove.php") {
+        echo '<link href="checkout_wk3prove.css" type="text/css" rel="stylesheet">';
+    }
 
     $uri = $_SERVER['REQUEST_URI'];
     echo $uri; // Outputs: URI
     
-    $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+    // $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
     
-    // $url = $protocol . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-    // echo $url; // Outputs: Full URL
-    
-    // $query = $_SERVER['QUERY_STRING'];
-    // echo $query; // Outputs: Query String
 
 ?>
