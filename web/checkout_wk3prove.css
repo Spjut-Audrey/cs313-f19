@@ -25,15 +25,9 @@ body {
     margin-right: auto;
 }
 
-.hidden {
-    visibility: hidden;
-    z-index: 1;
-}
-/* overlay text and button on div and image*/
-
-
-.hidden:hover {
-    visibility: visible;
+.addButton { 
+    position: relative;
+    justify-content: right;
 }
 
 .foodName {
