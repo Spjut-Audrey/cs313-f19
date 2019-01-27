@@ -26,6 +26,11 @@ body {
 
 .hidden {
     visibility: hidden;
+    z-index: 100;
+}
+/* overlay text and button on div and image*/
+.item {
+    z-index: 99;
 }
 
 .hidden:hover {
