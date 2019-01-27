@@ -18,8 +18,20 @@ body {
 #item-holder {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    grid-gap: 20px;
+    grid-gap: 10px;
     justify-content: space-evenly;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.hidden:hover {
+    visibility: visible;
+}
+
+.foodName {
+    font-family: 'Muli', sans-serif;
 }
 
 #logo {
