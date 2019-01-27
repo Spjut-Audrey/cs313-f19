@@ -34,6 +34,8 @@ body {
 
 .foodName {
     font-family: 'Muli', sans-serif;
+    font-size: 1.5em;
+    color: darkslategray;
 }
 
 #logo {
