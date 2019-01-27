@@ -9,7 +9,7 @@ body {
     object-fit: cover;
     width: 250px;
     height: 250px;
-    z-index: 99;
+    z-index: 0;
 }
 
 .item:hover .foodImage {
@@ -27,7 +27,7 @@ body {
 
 .hidden {
     visibility: hidden;
-    z-index: 100;
+    z-index: 1;
 }
 /* overlay text and button on div and image*/
 
