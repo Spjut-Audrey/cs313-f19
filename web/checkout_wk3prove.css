@@ -40,6 +40,7 @@ body {
     font-family: 'Muli', sans-serif;
     font-size: 1.5em;
     color: darkslategray;
+    z-index: 1;
 }
 
 #logo {
