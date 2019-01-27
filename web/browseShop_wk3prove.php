@@ -111,7 +111,7 @@
                 </div>
                 <div class="item">
                     <img src="/imgs/soup.jpeg" class="foodImage" alt="photo of soup">
-                    <span class="foodName hidden">Soup</span>
+                    <span class="foodName hidden"></span>
                     <button class="hidden">Add to Cart</button>
                 </div>
             </div>
