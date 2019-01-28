@@ -15,7 +15,7 @@
               <link href="homepage-medium.css" type="text/css" rel="stylesheet">
               <link href="homepage-large.css" type="text/css" rel="stylesheet">
             ';
-    } else if ($_SERVER['REQUEST_URI'] == "/browseShop_wk3prove.php" && "/checkout_wk3prove.php") {
+    } else if ($_SERVER['REQUEST_URI'] == "/browseShop_wk3prove.php" || "/checkout_wk3prove.php") {
         echo '<link href="checkout_wk3prove.css" type="text/css" rel="stylesheet">';
     }
 
