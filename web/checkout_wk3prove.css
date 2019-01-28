@@ -12,9 +12,10 @@ body {
     z-index: 0;
 }
 
-.item:hover .foodImage {
+/* haven't switched over to having the info on top of the image yet */
+/* .item:hover .foodImage {
     opacity: 0.3
-}
+} */
 
 #item-holder {
     display: grid;
@@ -27,6 +28,7 @@ body {
 
 .addButton {
     background-color: #E19001;
+    font-family: 'Muli', sans-serif;
     color: white;
     border-radius: 50px;
 }
@@ -36,6 +38,10 @@ body {
     font-size: 1.5em;
     color: darkslategray;
     z-index: 1;
+}
+
+.priceText {
+    font-family: 'Muli', sans-serif;
 }
 
 #logo {
