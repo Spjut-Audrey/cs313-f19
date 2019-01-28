@@ -25,9 +25,10 @@ body {
     margin-right: auto;
 }
 
-.addButton { 
-    position: relative;
-    justify-content: right;
+.addButton {
+    background-color: #E19001;
+    color: white;
+    border-radius: 5px;
 }
 
 .foodName {
