@@ -17,6 +17,7 @@
             <h2>Assignments</h2>
             <ul>
                 <li><a href="TeamWeek3.html">Team Activity Week Three</a></li>
+                <li><a href="browseShop_wk3prove">Week Three Prove</a></li>
             </ul>
         </main>
     </body>
