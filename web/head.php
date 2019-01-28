@@ -10,7 +10,7 @@
 
     // $_SERVER['HTTP_HOST'];
     // $_SERVER['REQUEST_URI'];
-    $url =$_SERVER['REQUEST_URI'];
+    // $url =$_SERVER['REQUEST_URI'];
 
     var_dump($url);
 
@@ -18,7 +18,7 @@
         echo '<link href="homepage-main.css" type="text/css" rel="stylesheet">
               <link href="homepage-medium.css" type="text/css" rel="stylesheet">
               <link href="homepage-large.css" type="text/css" rel="stylesheet">';
-              
+
     } else if ($url == "/browseShop_wk3prove.php" || $url == "/checkout_wk3prove.php") {
         echo '<link href="checkout_wk3prove.css" type="text/css" rel="stylesheet">
           ';
