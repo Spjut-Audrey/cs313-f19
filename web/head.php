@@ -10,9 +10,9 @@
 
     // $_SERVER['HTTP_HOST'];
     // $_SERVER['REQUEST_URI'];
-    // $url =$_SERVER['REQUEST_URI'];
+    $url =$_SERVER['REQUEST_URI'];
 
-    var_dump($url);
+    // var_dump($url);
 
     if ($url == "/homepage.php" || $url == "/assignment.php")  {
         echo '<link href="homepage-main.css" type="text/css" rel="stylesheet">
