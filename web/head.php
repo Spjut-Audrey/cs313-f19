@@ -12,6 +12,8 @@
     // $_SERVER['REQUEST_URI'];
     $url =$_SERVER['REQUEST_URI'];
 
+    var_dump($url);
+
     if ($url == "/browseShop_wk3prove.php" || "/checkout_wk3prove.php") {
         echo '<link href="checkout_wk3prove.css" type="text/css" rel="stylesheet">
             ';
