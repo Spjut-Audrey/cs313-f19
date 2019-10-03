@@ -15,6 +15,14 @@ body {
     top: 3%;
 }
 
+.content a {
+    color: #0b1a46;
+}
+
+.content a:visited {
+    color: black;
+}
+
 a {
     text-decoration: none;
 }
