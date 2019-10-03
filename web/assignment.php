@@ -10,12 +10,12 @@
     </head>
     <body>
         <main>
-            
+
         </main>
-        <aside>
+        <div class=sidebar>
             <img src="https://imgur.com/a/woOT7Mc" alt="profile pic of Audrey Spjut">
-            <a href="GITHUB HERE">Github CS 313 Repo</a>
+            <a href="https://github.com/Spjut-Audrey/cs313-f19">Github CS 313 Repo</a>
             <a href="homepage.php">Back to Homepage</a>
-        </aside>
+        </div>
     </body>
 </html>
