@@ -12,6 +12,7 @@ body {
 .content {
     position: absolute;
     left: 26%;
+    top: 10%;
 }
 
 a {
