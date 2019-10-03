@@ -1,4 +1,5 @@
 /* colors blue and orange */
 #profilePic {
-    border-radius: 75%;
+    border-radius: 50%;
+    width: 20%;
 }
