@@ -7,11 +7,12 @@
     <link rel="stylesheet" href="team2.css">
 </head>
 <body>
-    <div >I am some text in div 1</div>
-    <div>I am div two</div>
-    <div>Woah another div? Div 3</div>
-
-    <button>Click Me!</button>
+    <main>
+        <div >I am some text in div 1</div>
+        <div>I am div two</div>
+        <div>Woah another div? Div 3</div>
+        <button>Click Me!</button>
+    </main>
 </body>
 <!-- JS LINKS HERE -->
 </html>
