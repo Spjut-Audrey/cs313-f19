@@ -3,8 +3,6 @@
     <head>
         <?php include 'head.php'; ?>
         <title>CS 313 Homepage | Audrey Spjut</title>
-        
-        <!-- CSS LINKS HERE -->
 
         <!-- SCRIPT SRCS HERE -->
     </head>
