@@ -8,3 +8,7 @@ function changeColor() {
     document.getElementById("div1").style.backgroundColor = changedColor;
 
 }
+
+$("#hideDiv").click(function() {
+    $("#hiddenDiv").toggle(500);
+});
