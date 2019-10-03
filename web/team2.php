@@ -13,7 +13,7 @@
     <script> //jquery fade in/out code
         $(document).ready(function(){
             $("#hideDiv").click(function() {
-                $("#div3").fadeToggle("fast");
+                $("#div3").fadeToggle("slow");
             });
         });
     </script>
@@ -29,7 +29,7 @@
 
         <div>I am div two</div>
         <div id="div3">Woah another div? Div 3</div>
-        <button id="hideDiv">Hide Div 3</button>
+        <button id="hideDiv">Hide Div 3</button><br>
 
         <button id="button" onclick="buttonAlert()">Click Me!</button>
     </main>
