@@ -10,7 +10,7 @@
     <script src="team2.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
         $("#hideDiv").click(function() {
-            $("#div3").fadeToggle(fast);
+            $("#div3").fadeToggle("fast");
         });
     </script>
 </head>
