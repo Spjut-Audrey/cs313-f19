@@ -13,8 +13,8 @@
             <?php include 'sidebar.php'; ?>
             <a href="homepage.php">Back to Homepage</a>
         </div>
-        <main>
+        <div class="content">
 
-        </main>
+        </div>
     </body>
 </html>

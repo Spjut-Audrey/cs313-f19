@@ -9,9 +9,9 @@ body {
     padding: 0;
 }
 
-main {
+.content {
     position: absolute;
-    left: 10%;
+    left: 50px;
 }
 
 a {

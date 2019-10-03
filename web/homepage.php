@@ -7,11 +7,11 @@
         <!-- SCRIPT SRCS HERE -->
     </head>
     <body>
-        <div class=sidebar>
+        <div class="sidebar">
             <?php include 'sidebar.php'; ?>
             <a href="assignment.php">Assignment Page</a>
         </div>
-        <main>
+        <div class="content">
             Countdown to blizzcon: <br>
                 <?php
                     $today = time();
@@ -21,6 +21,6 @@
 
                     echo "There are $countdown days until Blizzcon!";
                 ?>
-        </main>
+        </div>
     </body>
 </html>
