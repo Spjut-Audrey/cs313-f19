@@ -25,11 +25,11 @@
         <textarea id="textArea" rows="3" cols="30">Enter new color name
         </textarea><br>
         <button onclick="changeColor()">Change Div 1 Color</button>
-        <br>
+        <br><br>
 
         <div>I am div two</div>
         <div id="div3">Woah another div? Div 3</div>
-        <button id="hideDiv">Hide Div 3</button><br>
+        <button id="hideDiv">Toggle Div 3</button><br><br>
 
         <button id="button" onclick="buttonAlert()">Click Me!</button>
     </main>
