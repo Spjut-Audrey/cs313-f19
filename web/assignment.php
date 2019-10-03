@@ -16,18 +16,18 @@
         <div class="content">
             <a href="hello.html">Week 1: Hello World</a>
             <a href="team2.php">Week 2: Team Activity</a>
-            <a href="">Week 3: Team Activity</a>
-            <a href="">Week 4</a>
-            <a href="">Week 5</a>
-            <a href="">Week 6</a>
-            <a href="">Week 7</a>
-            <a href="">Week 8</a>
-            <a href="">Week 9</a>
-            <a href="">Week 10</a>
-            <a href="">Week 11</a>
-            <a href="">Week 12</a>
-            <a href="">Week 13</a>
-            <a href="">Week 14</a>
+            <a href="Week3.html">Week 3: Team Activity</a>
+            <a href="">Week 4: Coming Soon</a>
+            <a href="">Week 5: Coming Soon</a>
+            <a href="">Week 6: Coming Soon</a>
+            <a href="">Week 7: Coming Soon</a>
+            <a href="">Week 8: Coming Soon</a>
+            <a href="">Week 9: Coming Soon</a>
+            <a href="">Week 10: Coming Soon</a>
+            <a href="">Week 11: Coming Soon</a>
+            <a href="">Week 12: Coming Soon</a>
+            <a href="">Week 13: Coming Soon</a>
+            <a href="">Week 14: Coming Soon</a>
         </div>
     </body>
 </html>
