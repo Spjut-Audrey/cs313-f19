@@ -22,5 +22,6 @@ a:visited {
 .sidebar {
     background-color: #0b1a46;
     width: 25%;
+    height: 100vh;
 }
 
