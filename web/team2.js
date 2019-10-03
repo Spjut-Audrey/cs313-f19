@@ -9,6 +9,3 @@ function changeColor() {
 
 }
 
-$("#hideDiv").click(function() {
-    $("#hiddenDiv").toggle(500);
-});
