@@ -8,7 +8,11 @@
 
     <!-- SCRIPT LINKS HERE -->
     <script src="team2.js"></script>
-    <script src="jquery-3.4.1.min.js"></script>
+    <script src="jquery-3.4.1.min.js">
+        $("#hideDiv").click(function() {
+        $("#hiddenDiv").toggle(500);
+        });
+    </script>
 </head>
 <body>
     <main>
