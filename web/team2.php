@@ -11,7 +11,7 @@
         <div id="div1">I am some text in div 1</div>
         <textarea id="textArea" rows="3" cols="30">Enter new color name
         </textarea><br>
-        <button onclick="changeColor()">Change Div Color</button>
+        <button onclick="changeColor()">Change Div Color</button><br>
 
         <div>I am div two</div>
         <div>Woah another div? Div 3</div>
