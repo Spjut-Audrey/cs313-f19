@@ -1,3 +1,7 @@
 div:hover {
     font-weight: bold;
 }
+
+.hover:hover {
+    font-weight: bold;
+}

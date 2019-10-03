@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="web/team2.css">
 </head>
 <body>
-    <div>I am some text in div 1</div>
-    <div>I am div two</div>
-    <div>Woah another div? Div 3</div>
+    <div class="hover">I am some text in div 1</div>
+    <div class="hover">I am div two</div>
+    <div class="hover">Woah another div? Div 3</div>
 
     <button>Click Me!</button>
 </body>
