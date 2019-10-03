@@ -6,12 +6,10 @@ html {
 body {
     margin: 0;
     padding: 0;
-    display: grid;
-    grid-column-gap: 0;
 }
 
 main {
-    grid-column: 2/2
+    margin-left: 25%;
 }
 
 a {
@@ -32,6 +30,5 @@ a:visited {
     background-color: #0b1a46;
     width: 25%;
     height: 100vh;
-    grid-column: 1/2;
 }
 
