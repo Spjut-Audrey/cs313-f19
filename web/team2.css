@@ -12,6 +12,12 @@ div {
     background-color: #808080;
 }
 
+button {
+    color: white;
+    background-color: darkslateblue;
+    border-radius: 5%;
+}
+
 main {
     margin: 0 auto;
 }
