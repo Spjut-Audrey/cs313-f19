@@ -9,12 +9,12 @@
         <!-- SCRIPT SRCS HERE -->
     </head>
     <body>
-        <main>
-
-        </main>
         <div class=sidebar>
             <?php include 'sidebar.php'; ?>
             <a href="homepage.php">Back to Homepage</a>
         </div>
+        <main>
+
+        </main>
     </body>
 </html>
