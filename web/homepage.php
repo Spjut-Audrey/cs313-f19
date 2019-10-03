@@ -10,7 +10,7 @@
     </head>
     <body>
         <main>
-            Countdown to blizzcon: 
+            Countdown to blizzcon: <br>
                 <?php
                     $today = time();
                     $blizzcon = mktime(0,0,0,11,1,2019);
