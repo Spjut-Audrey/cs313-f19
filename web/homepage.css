@@ -8,11 +8,17 @@ body {
     padding: 0;
 }
 
-a {}
+main {
+    margin-left: 25%;
+}
+
+a {
+    text-decoration: none;
+}
 
 a:visited {
     color: orange;
-    text-decoration: none;
+
 }
 
 #profilePic {
