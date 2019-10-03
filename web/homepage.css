@@ -10,7 +10,7 @@ body {
 }
 
 main {
-    position: relative;
+    position: absolute;
     left: 10%;
 }
 
@@ -38,6 +38,7 @@ a:hover {
     width: 30%;
     margin: 0 auto;
     padding-top: 10px;
+    margin-left: 10px;
 }
 
 .sidebar {
