@@ -20,16 +20,20 @@ a {
 
 a:visited {
     color: orange;
+}
 
+a:hover {
+    color: #e0e0e0;
 }
 
 .sidebar a {
-    font-size: 2em;
+    font-size: 1.75em;
 }
 
 #profilePic {
     border-radius: 50%;
-    width: 20%;
+    width: 30%;
+    margin: 0 auto;
 }
 
 .sidebar {
