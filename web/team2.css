@@ -6,6 +6,9 @@ div {
     padding: 5px 5px 5px 5px;
     width: 50%;
     font-size: 2em;
+    text-align: center;
+    align-content: center;
+    background-color: #808080;
 }
 
 main {
