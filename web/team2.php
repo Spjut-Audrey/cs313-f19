@@ -10,7 +10,7 @@
     <script src="team2.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
         $("#hideDiv").click(function() {
-            $("#hiddenDiv").toggle(fast);
+            $("#div3").fadeToggle(fast);
         });
     </script>
 </head>
@@ -23,7 +23,7 @@
         <br>
 
         <div>I am div two</div>
-        <div id="hiddenDiv">Woah another div? Div 3</div>
+        <div id="div3">Woah another div? Div 3</div>
         <button id="hideDiv">Hide Div 3</button>
 
         <button id="button" onclick="buttonAlert()">Click Me!</button>
