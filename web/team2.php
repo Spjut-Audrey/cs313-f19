@@ -11,7 +11,7 @@
         <div id="div1">I am some text in div 1</div>
         <textarea id="textArea" rows="3" cols="30">
             Enter new color name
-        </textarea>
+        </textarea><br>
         <button onclick="changeColor()">Change Div Color</button>
 
         <div>I am div two</div>
