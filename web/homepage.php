@@ -7,6 +7,10 @@
         <!-- SCRIPT SRCS HERE -->
     </head>
     <body>
+        <div class=sidebar>
+            <?php include 'sidebar.php'; ?>
+            <a href="assignment.php">Assignment Page</a>
+        </div>
         <main>
             Countdown to blizzcon: <br>
                 <?php
@@ -18,9 +22,5 @@
                     echo "There are $countdown days until Blizzcon!";
                 ?>
         </main>
-        <div class=sidebar>
-            <?php include 'sidebar.php'; ?>
-            <a href="assignment.php">Assignment Page</a>
-        </div>
     </body>
 </html>
