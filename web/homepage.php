@@ -21,7 +21,7 @@
                 ?>
         </main>
         <aside>
-            <img src="https://imgur.com/a/woOT7Mc" alt="profile pic of Audrey Spjut">
+            <img src="audrey-spjut.JPG" alt="profile pic of Audrey Spjut">
         </aside>
     </body>
 </html>
