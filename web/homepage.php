@@ -10,7 +10,15 @@
     </head>
     <body>
         <main>
+            Countdown to blizzcon: 
+                <?php
+                    $today = time();
+                    $blizzcon = mktime(0,0,0,11,1,2019);
 
+                    $countdown = round(($blizzcon - $today)/86400);
+
+                    echo "There are $countdown days until Blizzcon!";
+                ?>
         </main>
         <aside>
             <img src="https://imgur.com/a/woOT7Mc" alt="profile pic of Audrey Spjut">
