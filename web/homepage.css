@@ -1,6 +1,7 @@
 /* colors blue and orange */
 html {
     background-color: #e0e0e0;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -20,6 +21,10 @@ a {
 a:visited {
     color: orange;
 
+}
+
+.sidebar a {
+    font-size: 2em;
 }
 
 #profilePic {
