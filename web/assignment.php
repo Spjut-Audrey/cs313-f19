@@ -12,6 +12,9 @@
         <main>
 
         </main>
-        <?php include 'sidebar.php'; ?>
+        <div class=sidebar>
+            <?php include 'sidebar.php'; ?>
+            <a href="homepage.php">Back to Homepage</a>
+        </div>
     </body>
 </html>

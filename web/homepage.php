@@ -20,6 +20,9 @@
                     echo "There are $countdown days until Blizzcon!";
                 ?>
         </main>
-        <?php include 'sidebar.php'; ?>
+        <div class=sidebar>
+            <?php include 'sidebar.php'; ?>
+            <a href="assignment.php">Assignment Page</a>
+        </div>
     </body>
 </html>
