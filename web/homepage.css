@@ -30,7 +30,7 @@ a:hover {
 .sidebar a {
     font-size: 1.25em;
     padding-left: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     text-align: center;
 }
 
@@ -38,6 +38,7 @@ a:hover {
     border-radius: 50%;
     width: 30%;
     margin: 0 auto;
+    padding-top: 10px;
 }
 
 .sidebar {
