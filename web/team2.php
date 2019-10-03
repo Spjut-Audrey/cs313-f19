@@ -15,4 +15,5 @@
     </main>
 </body>
 <!-- JS LINKS HERE -->
+<script src="team2.js"></script>
 </html>
