@@ -1,8 +1,10 @@
 <!DOCTYPE html>
+<html lang="en-us">
 <head>    
     <title>Week 2: Team</title>
 
     <!-- CSS LINKS -->
+    <link rel="stylesheet" href="web/team2.css">
 </head>
 <body>
     <div>I am some text in div 1</div>
