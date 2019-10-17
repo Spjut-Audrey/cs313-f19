@@ -16,6 +16,21 @@ header {
     display: inline-grid;
 }
 
+.gI1 {
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+.gI2 {
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+.gI3 {
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
 img {
     width: 30%;
 }
