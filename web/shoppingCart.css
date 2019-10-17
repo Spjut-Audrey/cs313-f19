@@ -14,21 +14,19 @@ header {
 
 .grid-container {
     display: inline-grid;
+    align-items: center;
 }
 
 .gI1 {
-    grid-row-start: 1;
-    grid-row-end: 1;
+    grid-row: 1;
 }
 
 .gI2 {
-    grid-row-start: 1;
-    grid-row-end: 1;
+    grid-row: 1;
 }
 
 .gI3 {
-    grid-row-start: 1;
-    grid-row-end: 1;
+    grid-row: 1;
 }
 
 img {
