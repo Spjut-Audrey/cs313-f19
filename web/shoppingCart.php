@@ -8,6 +8,8 @@
 
         <!-- css -->
         <link rel="stylesheet" type="text/css" href="shoppingCart.css">
+        <!-- font -->
+        <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
     </head>
     <body>
         <div class="grid-container">
