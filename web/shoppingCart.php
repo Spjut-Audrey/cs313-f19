@@ -15,7 +15,6 @@
         <h1>Shopping Cart</h1>
     </header>
     <body>
-        
         <div class="grid-container">
             <div class="gI-1">
                 <img src="https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/nintendo-switch-new-package-gray/gallery/package_gray.jpg" alt="Nintendo Switch"><br>
