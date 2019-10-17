@@ -2,3 +2,7 @@
 .grid-container {
     display: grid;
 }
+
+img {
+    width: 30%;
+}
