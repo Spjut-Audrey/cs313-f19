@@ -11,10 +11,11 @@
         <!-- font -->
         <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
     </head>
+    <header>
+        <h1>Shopping Cart</h1>
+    </header>
     <body>
-        <header>
-            <h1>Shopping Cart</h1>
-        </header>
+        
         <div class="grid-container">
             <div class="gI-1">
                 <img src="https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/nintendo-switch-new-package-gray/gallery/package_gray.jpg" alt="Nintendo Switch"><br>
