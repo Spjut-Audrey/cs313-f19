@@ -15,6 +15,7 @@ header {
 .grid-container {
     display: inline-grid;
     align-items: center;
+    grid-template-columns: auto auto auto;
 }
 
 .gI1 {
