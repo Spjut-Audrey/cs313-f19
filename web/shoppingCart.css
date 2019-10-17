@@ -13,8 +13,8 @@ header {
 
 #shoppingCart {
     position: absolute;
-    top: 20px;
-    right: 40px;
+    top: 40px;
+    right: 20px;
     width: 65px;
 }
 
