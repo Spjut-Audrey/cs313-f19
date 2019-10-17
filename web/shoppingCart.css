@@ -14,8 +14,8 @@ header {
 #shoppingCart {
     position: absolute;
     top: 10px;
-    right: 10px;
-    width: 100px;
+    right: 20px;
+    width: 75px;
 }
 
 .grid-container {
