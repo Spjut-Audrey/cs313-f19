@@ -11,4 +11,6 @@ div a {
     padding: 5px 5px 5px 5px;
     background-color: red;
     border-radius: 5px;
+    text-align: center;
+    color: white;
 }
