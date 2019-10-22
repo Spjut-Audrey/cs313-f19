@@ -50,7 +50,7 @@
         
         $statement->execute();
 
-        $scripture_id = $db->lastInsertId("scripture_id_seq");
+        $scripture_id = $db->lastInsertId("scriptures_scripture_id_seq");
 
         foreach ($topic_ids as $topic_id)
             {
