@@ -44,7 +44,7 @@
             Verse:<input type="text" name="verse"/><br>
             Content:<textarea rows="10" cols="50" name="content">Scripture</textarea><br>
             <?php 
-                foreach ($db->query('SELECT topic FROM topic') as $row) {
+                foreach ($db->query('SELECT name FROM topic') as $row) {
                     echo '<input type="checkbox">' . $row['name'] . '<br>';
                 }
             ?>
