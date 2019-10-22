@@ -38,18 +38,23 @@
     //    }
     ?> 
 
-        <form method="POST" action="">
+        <form method="POST" action="team6Action.php">
             Book:<input type="text" name="book"/><br>
             Chapter:<input type="text" name="chapter"/><br>
             Verse:<input type="text" name="verse"/><br>
-            Content:<textarea rows="10" cols="50" name="content">Scripture</textarea><br>
+            Content:<br><textarea rows="10" cols="50" name="content">Scripture Content</textarea><br>
             <?php 
-                foreach ($db->query('SELECT name FROM topic') as $row) {
-                    echo '<input type="checkbox">' . $row['name'] . '<br>';
+                foreach ($db->query('SELECT topic_id, name FROM topic') as $row) {
+                    $id = $row['topic_id'];
+                    $name = $row['name'];
+
+                    echo "<input type='checkbox' name='topics[]' id='topics$id' value='$id'>" . '<br>';
+                    echo "<label for='topics$id'>$name</label><br
                 }
             ?>
 
             <input type="submit" value="Submit">
+            
         </form>
 ​
 </body>
