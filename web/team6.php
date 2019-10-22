@@ -42,10 +42,10 @@
             Book:<input type="text"><br>
             Chapter:<input type="text"><br>
             Verse:<input type="text"><br>
-            Content:<textarea rows="50" cols="50">Write</textarea>
+            Content:<textarea rows="10" cols="50">Write</textarea>
             <?php 
                 foreach ($db->query('SELECT topic FROM topic') as $row) {
-                    echo '<input type="checkbox">' . $row['topic'];
+                    echo '<input type="checkbox">' . $row['name'] . '<br>';
                 }
             ?>
 
