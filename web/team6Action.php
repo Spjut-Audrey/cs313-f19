@@ -67,7 +67,7 @@
             die();
         }
         // finally, redirect them to a new page to actually show the topics
-        header("Location: team6Action.php");
+        header("Location: team6Results.php");
 
         die(); 
 
