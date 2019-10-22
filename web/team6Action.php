@@ -37,9 +37,9 @@
         $chapter = $_POST['chapter'];
         $verse = $_POST['verse'];
         $content = $_POST['content'];
-        $topicId = $_POST['topics'];
+        $topic_id = $_POST['topics'];
 
-        $query = 'INSERT INTO scripture(book, chapter, verse, content) VALUES(:book, :chapter, :verse, :content)';
+        $query = 'INSERT INTO scriptures(book, chapter, verse, content) VALUES(:book, :chapter, :verse, :content)';
         
         $statement = $db->prepare($query);
 
@@ -50,12 +50,14 @@
         
         $statement->execute();
 
-        foreach ($topicIds as $topicId)
+        $scripture_id = $db->lastInsertId("scripture_id_seq");
+
+        foreach ($topic_ids as $topic_id)
             {
-                echo "ScriptureId: $scriptureId, topicId: $topicId";
-                $statement = $db->prepare('INSERT INTO scripture_topic(scriptureId, topicId) VALUES(:scriptureId, :topicId)');
-                $statement->bindValue(':scriptureId', $scriptureId);
-                $statement->bindValue(':topicId', $topicId);
+                echo "Scripture_id: $scripture_id, topic_id: $topic_id";
+                $statement = $db->prepare('INSERT INTO link(scripture_id, topic_id) VALUES(:scripture_id, :topic_id)');
+                $statement->bindValue(':scripture_id', $scripture_id);
+                $statement->bindValue(':topic_id', $topic_id);
                 $statement->execute();
             }
         }
@@ -70,12 +72,6 @@
         header("Location: team6Results.php");
 
         die(); 
-
-​
-       foreach ($db->query('SELECT book, chapter, verse, content FROM Scriptures') as $row)
-       {
-         echo '<strong>' . $row['book'] . ' ' . $row['chapter'] . ':' . $row['verse'] . ' - ' . '</strong>' . '"' . $row['content'] . '"' . '<br>'; 
-       }
     ?> 
 ​
 </body>
