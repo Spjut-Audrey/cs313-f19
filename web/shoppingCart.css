@@ -26,6 +26,10 @@ header {
     grid-column-gap: 15px;
 }
 
+.grid-container div {
+    width: 33%;
+}
+
 .gI1 {
     grid-row: 1;
     grid-column: 1;
