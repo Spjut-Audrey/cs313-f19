@@ -26,19 +26,19 @@
             <form method="post" action="cartView.php">
                 <div class="gI-1">
                     <!-- make sure to set items to session for passing data to cart page -->
-                    <img src="https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/nintendo-switch-new-package-gray/gallery/package_gray.jpg" alt="Nintendo Switch">
+                    <p><img src="https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/nintendo-switch-new-package-gray/gallery/package_gray.jpg" alt="Nintendo Switch"><p>
                     <p>Nintendo Switch<br>$299.99</p>
                     <p><a href="">Add to Cart</a><p>
                 </div>
                 <div class="gI-2">
                     <!-- make sure to set items to session for passing data to cart page -->
-                    <img src="https://target.scene7.com/is/image/Target/GUEST_1d8adc19-6218-4934-8bcc-4bcf22bf786d?fmt=webp&wid=1400&qlt=80" alt="Nintendo Switch Joy-cons">
+                    <p><img src="https://target.scene7.com/is/image/Target/GUEST_1d8adc19-6218-4934-8bcc-4bcf22bf786d?fmt=webp&wid=1400&qlt=80" alt="Nintendo Switch Joy-cons"><p>
                     <p>Nintendo Switch Joy-cons<br>$66.99</p>
                     <p><a href="">Add to Cart</a><p>
                 </div>
                 <div class="gI-3">
                     <!-- make sure to set items to session for passing data to cart page -->
-                    <img src="https://target.scene7.com/is/image/Target/GUEST_2a10c7ce-3fd2-4490-8b98-c8e7d73542a2?fmt=webp&wid=1400&qlt=80" alt="Nintendo Switch Pro Controller">
+                    <p><img src="https://target.scene7.com/is/image/Target/GUEST_2a10c7ce-3fd2-4490-8b98-c8e7d73542a2?fmt=webp&wid=1400&qlt=80" alt="Nintendo Switch Pro Controller"><p>
                     <p>Nintendo Switch Pro Controller<br>$62.99</p>
                     <p><a href="">Add to Cart</a><p>
                 </div>
