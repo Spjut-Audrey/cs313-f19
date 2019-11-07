@@ -3,7 +3,7 @@
     session_start();
 
     //check if cart has items set yet? is that a thing that I should do?
-    // if (isset )
+    // if (isset );
 
 ?><!DOCTYPE html>
 <html lang="en-us">
@@ -21,7 +21,6 @@
     <body>
         <header>
             <h1>Shopping Cart</h1>
-            <img src="https://cdn.pixabay.com/photo/2013/07/12/14/53/cart-148964_960_720.png" alt="shopping cart graphic" id="shoppingCart">
         </header>
         <div class="grid-container">
             <form method="post" action="cartView.php">
@@ -43,6 +42,7 @@
                     <span>Nintendo Switch Pro Controller<br>$62.99</span><br><br>
                     <a href="">Add to Cart</a><br>
                 </div>
+                <input type="image" src="https://cdn.pixabay.com/photo/2013/07/12/14/53/cart-148964_960_720.png" alt="shopping cart graphic" id="shoppingCart" class="img">
             </form>
         </div>
     </body>
