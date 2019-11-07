@@ -26,7 +26,7 @@
         <div class="grid-container">
            hi I'm the body
 
-           <span><a href="shoppingCart.php">Back to Shopping</a></span>
+           <span id="back"><a href="shoppingCart.php">Back to Shopping</a></span>
         </div>
     </body>
 </html>

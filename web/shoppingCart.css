@@ -59,3 +59,12 @@ div a {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/* cart view css */
+
+
+#back {
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
