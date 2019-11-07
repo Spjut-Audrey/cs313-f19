@@ -3,6 +3,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+div{
+    line-height:0;
+}
+
 header {
     background-color: red;
     color: white;
