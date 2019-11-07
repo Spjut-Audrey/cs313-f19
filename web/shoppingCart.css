@@ -45,6 +45,10 @@ header {
     width: 30%;
 }
 
+img {
+    width: 30%;
+}
+
 div a {
     padding: 5px 5px 5px 5px;
     background-color: red;
