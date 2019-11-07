@@ -25,6 +25,7 @@ header {
     margin: 0 auto;
     grid-column-gap: 15px;
     vertical-align: top;
+    line-height: 0px;
 }
 
 .grid-container div {
