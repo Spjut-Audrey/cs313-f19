@@ -28,16 +28,19 @@ header {
 
 .gI1 {
     grid-row: 1;
+    grid-column: 1;
     align-items: center;
 }
 
 .gI2 {
     grid-row: 1;
+    grid-column: 2;
     align-items: center;
 }
 
 .gI3 {
     grid-row: 1;
+    grid-column: 3;
     align-items: center;
 }
 
