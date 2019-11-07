@@ -3,7 +3,7 @@
     session_start();
 
     //check if cart has items set yet? is that a thing that I should do?
-    if (isset )
+    // if (isset )
 
 ?><!DOCTYPE html>
 <html lang="en-us">
