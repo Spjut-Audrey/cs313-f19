@@ -61,7 +61,9 @@ div a {
 }
 
 /* cart view css */
-
+#cartViewBody {
+    margin: 0 auto;
+}
 
 #back {
     margin: 0 auto;

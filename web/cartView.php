@@ -23,7 +23,7 @@
             <h1>Shopping Cart</h1>
             <img src="https://cdn.pixabay.com/photo/2013/07/12/14/53/cart-148964_960_720.png" alt="shopping cart graphic" id="shoppingCart">
         </header>
-        <div class="grid-container">
+        <div class="grid-container" id="cartViewBody">
            hi I'm the body
 
            <span id="back"><a href="shoppingCart.php">Back to Shopping</a></span>
