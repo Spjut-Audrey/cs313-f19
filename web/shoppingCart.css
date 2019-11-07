@@ -28,7 +28,7 @@ header {
 }
 
 .grid-container div {
-    width: 33%;
+    max-width: 33%;
 }
 
 .gI1 {
