@@ -30,5 +30,9 @@
                 little Starcraft.
             </p>
         </div>
+        <div>
+            <h2>Assignments</h2>
+            <a href="shoppingCart.php">Week 3: Shopping Cart</a>
+        </div>
     </body>
 </html>
