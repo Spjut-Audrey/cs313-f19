@@ -1,24 +1,33 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-        <title>Assignment Page</title>
-        <meta name="description" content="Assignment page for CS 313.">
-
-        <?php
-            include ('head.php');
-        ?>
+        <?php include 'head.php'; ?>
+        <title>CS 313 Assignments | Audrey Spjut</title>
+        
+        <!-- CSS LINKS HERE -->
+        <link rel="stylesheet" href="homepage.css">
+        <!-- SCRIPT SRCS HERE -->
     </head>
     <body>
-        <header>
-            <h1>CS 313 Assignment Page</h1>
-            <a href="/homepage.php" class="linkButton">Return to homepage</a>
-        </header>
-        <main>
-            <h2>Assignments</h2>
-            <ul>
-                <li><a href="TeamWeek3.html">Team Activity Week Three</a></li>
-                <li><a href="browseShop_wk3prove.php">Week Three Prove</a></li>
-            </ul>
-        </main>
+        <div class=sidebar>
+            <?php include 'sidebar.php'; ?>
+            <a href="homepage.php">Back to Homepage</a>
+        </div>
+        <div class="content">
+            <a href="hello.html">Week 1: Hello World</a><br><br>
+            <a href="team2.php">Week 2: Team Activity</a><br><br>
+            <a href="Week3.html">Week 3: Team Activity</a><br><br>
+            <a href="">Week 4: Coming Soon</a><br><br>
+            <a href="">Week 5: Coming Soon</a><br><br>
+            <a href="">Week 6: Coming Soon</a><br><br>
+            <a href="">Week 7: Coming Soon</a><br><br>
+            <a href="">Week 8: Coming Soon</a><br><br>
+            <a href="">Week 9: Coming Soon</a><br><br>
+            <a href="">Week 10: Coming Soon</a><br><br>
+            <a href="">Week 11: Coming Soon</a><br><br>
+            <a href="">Week 12: Coming Soon</a><br><br>
+            <a href="">Week 13: Coming Soon</a><br><br>
+            <a href="">Week 14: Coming Soon</a>
+        </div>
     </body>
 </html>

@@ -1,0 +1,59 @@
+/* colors blue and orange */
+html {
+    background-color: #e0e0e0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    position: absolute;
+    left: 26%;
+    top: 3%;
+}
+
+.content a {
+    color: #0b1a46;
+}
+
+.content a:hover {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+.sidebar a:visited {
+    color: orange;
+}
+
+.sidebar a:hover {
+    color: #e0e0e0;
+}
+
+.sidebar a {
+    font-size: 1.25em;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+#profilePic {
+    border-radius: 50%;
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.sidebar {
+    background-color: #0b1a46;
+    width: 25%;
+    height: 100vh;
+}
+
+
